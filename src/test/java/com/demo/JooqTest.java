@@ -1,7 +1,5 @@
 package com.demo;
 
-import com.demo.database.tables.Department;
-import com.demo.database.tables.Employee;
 import com.demo.dto.EmployeeDTO;
 import org.jooq.DSLContext;
 import org.junit.jupiter.api.Test;

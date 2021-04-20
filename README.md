@@ -1,1 +1,1 @@
-# java16-jpa-jooq
+# Demo project for Java 16 and JPA and jOOQ
